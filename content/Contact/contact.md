@@ -3,7 +3,7 @@
 widget = "contact"
 headless = true  # This file represents a page section.
 autolink = true
-email_form = 1
+email_form = 2
 title = "Contact"
 
 
