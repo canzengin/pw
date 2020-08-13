@@ -4,9 +4,9 @@ authors:
 bio: My research interests include political psychology.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Political Science
+    institution: Temple University
+    year: in progress
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009

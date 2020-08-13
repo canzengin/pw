@@ -5,34 +5,29 @@
 
 [[main]]
   name = "CnZngn"
-  url = "#hero"
+  url = "#content/CnZngn/admin/_index.md"
   weight = 10
 
 [[main]]
   name = "Research"
-  url = "#Research"
+  url = "#content/Research/Research.md"
   weight = 20
 
 [[main]]
   name = "Teaching"
-  url = "#Teaching"
+  url = "#content/Teaching/experience.md"
   weight = 30
 
 [[main]]
   name = "CV"
-  url = "#CV"
+  url = "#content/CV/CV.pdf"
   weight = 40
 
 [[main]]
   name = "Contact" 
-  url = "#Contact"
+  url = "#content/Contact/contact.md"
   weight = 50
 
 
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-name = "CV"
-url = "content/CV.pdf"
-weight = 60
+
