@@ -6,5 +6,8 @@ autolink = true
 email_form = 1
 title = "Contact"
 
+
+email: can.zengin@temple.edu
+phone: 646-2467624
 +++
 
