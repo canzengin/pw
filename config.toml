@@ -24,9 +24,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # path to the favicon, under "static"
     favicon = "favicon.ico"
 
-    [params.logo]
-    url = "leo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
+
 
